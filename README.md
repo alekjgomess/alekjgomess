@@ -78,16 +78,6 @@ Atualmente desenvolvo conhecimentos por meio de laboratórios e simulações de 
 - Cisco — Cybersecurity Threat Management.
 - Cisco / SENAI — estudos em CyberOps Associate.
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alekjgomess&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekjgomess&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 ## 🎯 Objetivos atuais
 
 - Aprofundar conhecimentos em análise e investigação de incidentes.
