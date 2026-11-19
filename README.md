@@ -1,157 +1,105 @@
 
+<!-- HEADER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:052e16,100:064e3b&height=180&section=header&text=alexandre@cybersec&fontSize=38&fontColor=00FF9C&animation=fadeIn&fontAlignY=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=200&section=header&text=Alexandre%20Gomes&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Cybersecurity%20%7C%20Blue%20Team%20%7C%20SOC&descAlignY=58&descSize=17&animation=fadeIn" />
 
 </div>
 
-<div align="center">
+<h2 align="center">Olá! Seja bem-vindo ao meu GitHub 👋</h2>
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│  SYSTEM: ALEXANDRE GOMES                                  │
-│  ROLE:   IT SUPPORT | CYBERSECURITY STUDENT               │
-│  FOCUS:  BLUE TEAM | SOC ANALYST N1                       │
-│  STATUS: LEARNING / INVESTIGATING / IMPROVING             │
-└──────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  Estudante de Análise e Desenvolvimento de Sistemas, com experiência em suporte técnico e foco em Segurança da Informação, Blue Team e operações de SOC.
+</p>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCO-CYBERSECURITY-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ÁREA-BLUE%20TEAM-1D4ED8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OBJETIVO-SOC%20ANALYST-7C3AED?style=for-the-badge"/>
+</p>
 
-## `root@alexandre:~$ whoami`
+---
 
-```bash
-$ whoami
+## 🧑‍💻 Sobre mim
 
-Alexandre Gomes
+Sou profissional de TI em transição e aprofundamento na área de Cybersecurity, direcionando meus estudos para operações de segurança, monitoramento e resposta a incidentes.
 
-> IT Support professional
-> ADS Student
-> Cybersecurity enthusiast
-> Blue Team / SOC Analyst aspirant
+Minha trajetória combina experiência prática em suporte técnico, conhecimentos de infraestrutura e redes de computadores, programação e estudos direcionados à investigação de eventos de segurança.
 
-$ cat about.txt
+Tenho interesse especial em entender o que acontece por trás de um alerta: analisar evidências, correlacionar logs, identificar indicadores de comprometimento (IOCs), compreender o comportamento de ameaças e determinar quando um evento realmente representa um incidente de segurança.
 
-Experiência em suporte técnico, infraestrutura e sistemas.
-Atualmente direcionando meus estudos para Cybersecurity,
-com foco em monitoramento, análise de logs, investigação
-de eventos e resposta a incidentes.
+Atualmente, meu foco é desenvolver habilidades técnicas para atuar como **Analista SOC N1**, evoluindo continuamente em investigação e resposta a incidentes.
 
-Meu objetivo é entender o comportamento das ameaças,
-identificar indicadores de comprometimento (IOCs),
-correlacionar evidências e distinguir eventos legítimos
-de possíveis incidentes de segurança.
-```
+## 🛡️ Conhecimentos em Cybersecurity
 
-## `root@alexandre:~$ cat skills.json`
+| Área | Conhecimentos e ferramentas |
+|---|---|
+| **Network Security** | TCP/IP, IPv4, IPv6, DNS, DHCP, ARP |
+| **Packet Analysis** | Wireshark, NetworkMiner, Brim |
+| **SIEM & Log Analysis** | Splunk, Elastic Stack |
+| **Threat Intelligence** | VirusTotal, Cisco Talos, ANY.RUN |
+| **Detection & Monitoring** | Snort, análise de tráfego e eventos |
+| **Threat Frameworks** | MITRE ATT&CK |
+| **Operating Systems** | Windows, Linux, PowerShell, Bash |
+| **Programming** | Python, C#, Java |
 
-```yaml
-CYBERSECURITY:
-  - Network Security
-  - Network Forensics
-  - Log Analysis
-  - Threat Intelligence
-  - Incident Investigation
-  - MITRE ATT&CK
+## 🔬 Laboratórios e estudos práticos
 
-NETWORK:
-  - TCP/IP | IPv4 | IPv6
-  - DNS | DHCP | ARP
-  - HTTP/HTTPS
-  - Packet Analysis
+Atualmente desenvolvo conhecimentos por meio de laboratórios e simulações de cenários de segurança.
 
-SYSTEMS:
-  - Windows
-  - Linux
-  - PowerShell
-  - Bash
-  - Sysmon
-  - Active Directory
-```
+- **TryHackMe:** trilha SOC Level 1, com estudos de investigação, detecção e resposta a incidentes.
+- **SIEM:** utilização de Splunk e Elastic Stack para análise e correlação de eventos.
+- **Network Forensics:** investigação de tráfego de rede utilizando Wireshark, NetworkMiner e Brim.
+- **Windows Security:** estudos de logs, Sysmon, eventos do sistema operacional e Active Directory.
+- **Home Lab:** ambiente virtualizado para simulação de ataques, coleta de logs e monitoramento utilizando Wazuh.
+- **Threat Intelligence:** enriquecimento de indicadores e investigação de artefatos suspeitos.
 
-## `root@alexandre:~$ ls /tools`
+## 🧰 Tecnologias e ferramentas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,windows,python,cs,java,bash,powershell,git,github,mysql,vscode&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,cs,java,bash,powershell,linux,windows,mysql,git,github,vscode&perline=6"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/WIRESHARK-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/SPLUNK-000000?style=flat-square&logo=splunk&logoColor=white"/>
-<img src="https://img.shields.io/badge/ELASTIC-005571?style=flat-square&logo=elastic&logoColor=white"/>
-<img src="https://img.shields.io/badge/WAZUH-3AABE6?style=flat-square&logo=wazuh&logoColor=white"/>
-<img src="https://img.shields.io/badge/SNORT-EA1D2C?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/TRYHACKME-212C42?style=flat-square&logo=tryhackme&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wazuh-3AABE6?style=for-the-badge&logo=wazuh&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snort-EA1D2C?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 
 </div>
 
-## `root@alexandre:~$ ./current_operations.sh`
+## 🎓 Formação e certificações
 
-```text
-[+] TRYHACKME ............... SOC LEVEL 1
-[+] SIEM .................... SPLUNK / ELASTIC
-[+] NETWORK FORENSICS ....... WIRESHARK / NETWORKMINER
-[+] THREAT INTELLIGENCE ..... VIRUSTOTAL / CISCO TALOS
-[+] WINDOWS SECURITY ........ SYSMON / EVENT LOGS
-[+] HOME LAB ................ WAZUH / VIRTUALIZATION
-[+] FRAMEWORK ............... MITRE ATT&CK
+- 🎓 Análise e Desenvolvimento de Sistemas — Universidade Estácio de Sá (em andamento).
+- Cisco Networking Academy — Introduction to Networks (CCNA 1).
+- Cisco — Cybersecurity Threat Management.
+- Cisco / SENAI — estudos em CyberOps Associate.
 
-[*] STATUS: CONTINUOUS LEARNING
-```
+## 🎯 Objetivos atuais
 
-## `root@alexandre:~$ cat education.log`
-
-```text
-[EDUCATION]
-> Análise e Desenvolvimento de Sistemas
-  Universidade Estácio de Sá | Em andamento
-
-[COURSES]
-> Cisco Networking Academy - Introduction to Networks
-> Cisco - Cybersecurity Threat Management
-> Cisco / SENAI - CyberOps Associate studies
-```
-
-## `root@alexandre:~$ cat objectives.txt`
-
-```text
-[MISSION OBJECTIVES]
-
-01. Develop SOC Analyst N1 skills.
-02. Improve SIEM queries and log correlation.
-03. Investigate suspicious network traffic.
-04. Understand attack techniques through MITRE ATT&CK.
-05. Develop detection and incident response projects.
-06. Build practical cybersecurity laboratories.
-
-[ACCESS LEVEL] BLUE TEAM
-[MISSION STATUS] IN PROGRESS
-```
-
-## `root@alexandre:~$ github-stats`
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=alexkjgomess&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=020617&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkjgomess&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=020617&title_color=00FF9C&text_color=C9D1D9"/>
-
-</div>
+- Aprofundar conhecimentos em análise e investigação de incidentes.
+- Evoluir na utilização de SIEM e criação de consultas de detecção.
+- Desenvolver regras de detecção e compreender técnicas de ataque.
+- Aprimorar conhecimentos em análise forense de redes e sistemas.
+- Construir projetos práticos que demonstrem minhas habilidades em Blue Team.
 
 ---
 
 <div align="center">
 
-```bash
-$ echo "Security is not a product. It's a continuous process."
-```
+**"Entender o comportamento é o primeiro passo para detectar uma ameaça."**
+
+<br>
 
 <a href="https://www.linkedin.com/in/alexandre-gomes-a53b13287/">
-<img src="https://img.shields.io/badge/LINKEDIN-00FF9C?style=for-the-badge&logo=linkedin&logoColor=020617"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Conecte--se comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer"/>
+
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,100:020617&height=100&section=footer"/>
-
